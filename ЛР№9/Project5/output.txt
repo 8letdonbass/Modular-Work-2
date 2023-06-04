@@ -1,0 +1,4 @@
+String: 1
+Replaced string: 11
+Total count of Latin and Cyrillic letters: 0
+The string does not meet the conditions.
